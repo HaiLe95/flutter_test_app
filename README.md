@@ -4,7 +4,11 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application flutter-based application changes background color on tap.
+
+It should be also poping up a meme after several taping. But I didn't manage to make it.
+Sooo... It won't work after 10th tap. It could be fixed someday.
+
 
 A few resources to get you started if this is your first Flutter project:
 
